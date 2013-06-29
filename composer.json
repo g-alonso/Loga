@@ -1,0 +1,10 @@
+{
+	"require": {
+		"psr/log": "dev-master"
+	},
+	"autoload": {
+		"psr-0": {
+			"Loga": "src"
+		}
+	}
+}
